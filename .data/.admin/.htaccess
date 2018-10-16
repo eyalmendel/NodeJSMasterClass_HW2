@@ -1,3 +1,0 @@
-AuthUserFile /home/eyalmendel/private/NodeJS/REST_API/HW2/.data/admin/.htpasswd
-AuthType Basic
-AuthName "Protected Content"
